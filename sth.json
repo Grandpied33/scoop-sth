@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Grandpied33/sth-releases/releases/download/v0.2.0/sth-windows-amd64.zip",
+            "bin": [
+                "sth.exe"
+            ],
+            "hash": "144da179923b6b0d30a94e99a8ea8d06220aeb04d33e29740f344e56a58992ce"
+        }
+    },
+    "homepage": "https://github.com/Grandpied33/sth-releases",
+    "description": "Skills Transfer Hub CLI — install reusable AI skills, agents and commands."
+}
